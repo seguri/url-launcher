@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">URL Launcher</string>
+  <string name="first_launch_key">first_launch</string>
+  <string name="enter_url">Enter Target URL</string>
+  <string name="saved_url_key">saved_url</string>
+  <string name="default_url">https://discord.com/channels/940321859923247165/1242544333748568174</string>
+  <string name="save_and_launch">Save and Launch</string>
+</resources>
